@@ -54,6 +54,11 @@
 
 [exercícios](exercicios/08-exercicios.pdf)
 
+### Aula 09: Entrada e Saída
+
+[slides](slides/09-EntradaSaida.pdf)
+
+[exercícios](exercicios/09-exercicios.pdf)
 
 ### Aula 10: Processos
 
