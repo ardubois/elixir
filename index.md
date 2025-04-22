@@ -16,15 +16,34 @@
 
 [slides](slides/03-Rec.pdf)
 
-[exercícios][slides](slides/03-Rec.pdf)
-
 [exercícios](exercicios/03-exercicios.pdf)
 
-[extra: erros e funções privadas](exercicios/03-extra.pdf)
+[extra: erros e funções privadas](slides/03-extra.pdf)
 
 ### Aula 04: Listas
 
-[slides](slides/03-Listas.pdf)
+[slides](slides/04-Listas.pdf)
 
 [exercícios](exercicios/04-exercicios.pdf)
 
+### Aula 05: Listas e Ordenação
+
+[slides](slides/05-Ordenacao.pdf)
+
+[exercícios](exercicios/05-exercicios.pdf)
+
+[extra: otimizando fibonaci](slides/05-exercicios.pdf)
+
+### Aula 06: Átomos e Tuplas
+
+[slides](slides/06-AtomosTuplas.pdf)
+
+[exercícios](exercicios/06-exercicios.pdf)
+
+### Aula 07: Funções Anônimas e Funções de Alta-Ordem
+
+[slides](slides/07-AnonAO.pdf)
+
+[errata reduce](slides/07erratareduce.pdf)
+
+[exercícios](exercicios/07-exercicios.pdf)
