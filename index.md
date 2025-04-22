@@ -47,3 +47,22 @@
 [errata reduce](slides/07erratareduce.pdf)
 
 [exercícios](exercicios/07-exercicios.pdf)
+
+### Aula 08: Composição de Funções
+
+[slides](slides/08-Composicao.pdf)
+
+[exercícios](exercicios/08-exercicios.pdf)
+
+
+### Aula 10: Processos
+
+[slides](slides/10-Processos.pdf)
+
+[exercícios](exercicios/10-exercicios.pdf)
+
+### Aula 11: Campo Minado
+
+[especificação](slides/Trabalho-CampoMinado.pdf)
+
+[script inicial](exercicios/minesweeper.ex)
