@@ -32,7 +32,7 @@
 
 [exercícios](exercicios/05-exercicios.pdf)
 
-[extra: otimizando fibonaci](slides/05-exercicios.pdf)
+[extra: otimizando fibonaci](slides/05-Fib.pdf)
 
 ### Aula 06: Átomos e Tuplas
 
